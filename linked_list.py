@@ -21,7 +21,7 @@ class SingleLinkedList:
             printval = printval.next_node
 
     # Function to remove node
-    def remove_node(self, Removekey):
+    def remove_node(self, removekey):
         pass
 
     def find_by_name(self, name):
