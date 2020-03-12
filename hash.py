@@ -62,7 +62,7 @@ def test_hash_table():
 
 if __name__ == "__main__":
 
-    # 전화 전호 삽입 구현 확인
+    # 전화 번호 삽입 구현 확인
     hashtable = HashTable(26)
     test_hash_table()
     hashtable.print_hash_table()
